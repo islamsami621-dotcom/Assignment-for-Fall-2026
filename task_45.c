@@ -8,40 +8,40 @@ int main() {
 
     switch (month) {
         case 1:
-            printf("January\n");
+            printf("January");
             break;
         case 2:
-            printf("February\n");
+            printf("February");
             break;
         case 3:
-            printf("March\n");
+            printf("March");
             break;
         case 4:
-            printf("April\n");
+            printf("April");
             break;
         case 5:
-            printf("May\n");
+            printf("May");
             break;
         case 6:
-            printf("June\n");
+            printf("June");
             break;
         case 7:
-            printf("July\n");
+            printf("July");
             break;
         case 8:
-            printf("August\n");
+            printf("August");
             break;
         case 9:
-            printf("September\n");
+            printf("September");
             break;
         case 10:
-            printf("October\n");
+            printf("October");
             break;
         case 11:
-            printf("November\n");
+            printf("November");
             break;
         case 12:
-            printf("December\n");
+            printf("December");
             break;
         default:
             printf("Invalid input!");
